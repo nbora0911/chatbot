@@ -1,0 +1,23 @@
+name: tabot
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - IPython
+  - matplotlib
+  - mkl
+  - numpy
+  - pandas
+  - pip
+  - pyyaml
+  - pytorch
+  - spacy
+  - scipy>=1.3.1
+  - scikit-learn
+  - seaborn
+  - tqdm
+  - python>=3.6
+  - pip:
+    - boto3
+    - transformers==2.3.0
