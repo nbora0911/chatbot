@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+data
+*.tar.gz
+*.json
+*.csv
+.DS_Store
